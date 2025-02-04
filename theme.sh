@@ -1,3 +1,9 @@
+# PLEASE NOTE
+# ===========
+
+# To get the vintage green font color go to iTerm settings => Profiles => Colors
+# Under "Basic Colors", change "Foreground" color to `33ff00`.
+
 ZSH_THEME_GIT_PROMPT_PREFIX=" \u2387  %{$reset_color%}"
 ZSH_THEME_GIT_PROMPT_SUFFIX="%{$reset_color%}"
 ZSH_THEME_GIT_PROMPT_DIRTY="%{$fg[red]%}!"
